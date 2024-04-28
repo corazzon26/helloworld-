@@ -1,4 +1,4 @@
-i
+!pip install tabulate
 
 from tabulate import tabulate
 # isilah titik - titik di bawah ini
